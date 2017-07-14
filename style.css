@@ -1,0 +1,22 @@
+header {
+  height: 60px;
+  background: purple;
+  text-align: center;
+  color: lavender
+}
+
+body{
+  background: lavender;
+}
+
+img {
+  height: 250px;
+  border: 7px solid purple;
+  float: right;
+  margin-left: 15px;
+  
+}
+
+h3 {
+  color: purple;
+}
